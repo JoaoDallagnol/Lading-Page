@@ -13,6 +13,7 @@
 
 .white-bg {
     background: white;
+    color: var(--primary-color)
 }
 
 .main-content {
